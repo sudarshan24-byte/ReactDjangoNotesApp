@@ -64,7 +64,7 @@ For ReactJS
 ```
 
 # Github Gist
-Integration React and Django with Vite Github Gist: 
+Integration of React and Django with Vite Github Gist: 
 https://gist.github.com/sudarshan24-byte/ded3236d38b15787729de86c6cb420e3
 
 ## Profile
