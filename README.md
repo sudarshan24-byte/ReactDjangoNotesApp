@@ -68,6 +68,6 @@ Integration React and Django with Vite
 Github Gist : https://gist.github.com/sudarshandev24/ded3236d38b15787729de86c6cb420e3
 
 ## Profile
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sudarshandev24)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sudarshan24-byte)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-trifaley-188b4023a/)
